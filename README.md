@@ -1,4 +1,4 @@
-# Welcome to Aria2's Windows Desktop
+# Welcome to Aria2's windows desktop
 
 ## Directory
 
